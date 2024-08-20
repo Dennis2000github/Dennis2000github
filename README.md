@@ -15,6 +15,10 @@ You can click the Preview link to take a look at your changes.
 def test_example():
     assert your_function() == expected_output
     
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+
 from web3 import Web3
 import time
 
