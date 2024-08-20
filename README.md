@@ -10,6 +10,11 @@
 Dennis2000github/Dennis2000github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->git clone https://github.com/your-username/your-repo-name.git
+# tests/test_mev_bot.py
+
+def test_example():
+    assert your_function() == expected_output
+    
 from web3 import Web3
 import time
 
